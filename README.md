@@ -36,11 +36,7 @@ Below are examples of OTrivia in aciton:
 
 Image:  [Scoreboard](https://drive.google.com/file/d/15Ezp-9KRb_eav7qrz-iBdLGCKjIqoXZy/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/15Ezp-9KRb_eav7qrz-iBdLGCKjIqoXZy/preview" width="290" height="480"></iframe>
-
-Video:
-
-<iframe src="https://drive.google.com/file/d/1caSMUj2gK5eLzwkQ3ZSyL9PsqlWQO3_U/preview" width="640" height="480"></iframe>
+Video:  [Avatar & Category Pages](https://drive.google.com/file/d/1caSMUj2gK5eLzwkQ3ZSyL9PsqlWQO3_U/view?usp=sharing)
 
 ##Getting Started
 
